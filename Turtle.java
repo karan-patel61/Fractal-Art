@@ -1,5 +1,3 @@
-package eecs2030.lab3;
-
 import java.awt.Color;
 import java.util.Objects;
 
@@ -13,7 +11,7 @@ import java.util.Objects;
  * turtle is facing in, and a {@code Pen} instance that represents the pen that
  * the turtle draws with.
  * 
- * @author EECS2030 Winter 2017-18
+ * @author Karan Patel
  * 
  */
 public class Turtle {
