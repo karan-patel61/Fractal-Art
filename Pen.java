@@ -1,5 +1,3 @@
-package eecs2030.lab3;
-
 import java.awt.Color;
 import java.util.Objects;
 
@@ -10,7 +8,7 @@ import princeton.introcs.StdDraw;
  * {@code princeton.introcs.StdDraw} object. A pen has a color and can be on or
  * off. A pen will draw a line if it is on but not if it is off.
  * 
- * @author EECS2030 Winter 2018
+ * @author Karan Patel
  *
  */
 public class Pen {
