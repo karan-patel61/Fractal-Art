@@ -1,5 +1,3 @@
-package eecs2030.lab3;
-
 import java.util.Objects;
 
 /**
@@ -7,7 +5,7 @@ import java.util.Objects;
  * coordinates. Every {@code Point2} instance has an
  * x and y coordinate.
  * 
- * @author EECS2030 Winter 2018
+ * @author Karan Patel
  *
  */
 public class Point2 {
