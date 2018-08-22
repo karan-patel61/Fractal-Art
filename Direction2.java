@@ -1,5 +1,3 @@
-package eecs2030.lab3;
-
 import java.util.Objects;
 
 /**
@@ -13,7 +11,7 @@ import java.util.Objects;
  * but it is a class invariant that {@code Direction2} objects will always
  * normalize the direction angle so that {@code 0.0 <= getDirection() < 360.0}.
  * 
- * @author EECS2030 Winter 2018
+ * @author Karan Patel
  * 
  */
 public final class Direction2 {
