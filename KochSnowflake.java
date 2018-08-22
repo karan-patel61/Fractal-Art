@@ -1,5 +1,3 @@
-package eecs2030.lab3;
-
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.Arrays;
