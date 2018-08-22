@@ -1,5 +1,3 @@
-package eecs2030.lab3;
-
 import static org.junit.Assert.*;
 
 import java.awt.Color;
